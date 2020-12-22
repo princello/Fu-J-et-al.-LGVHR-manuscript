@@ -12,4 +12,5 @@ single cell analysis for Pt19 POD105 BM_Donor T
 ## tcrlink2.0.py：
 single cell annotation by linking 10x and adaptive TCR sequence
 
-## 
+## mj_list.py
+files used in tcrlink2.0.py
